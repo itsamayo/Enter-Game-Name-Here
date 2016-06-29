@@ -2,7 +2,7 @@
 <sprite>
   <type>0</type>
   <xorig>12</xorig>
-  <yorigin>8</yorigin>
+  <yorigin>10</yorigin>
   <colkind>1</colkind>
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
@@ -18,9 +18,9 @@
   </TextureGroups>
   <For3D>0</For3D>
   <width>24</width>
-  <height>16</height>
+  <height>21</height>
   <frames>
-    <frame index="0">images\spr_enemy_slime_0.png</frame>
-    <frame index="1">images\spr_enemy_slime_1.png</frame>
+    <frame index="0">images\spr_enemy_blob_0.png</frame>
+    <frame index="1">images\spr_enemy_blob_1.png</frame>
   </frames>
 </sprite>
